@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KuubiSuran",
-    "currentPage": "index.html",
+    "currentPage": "ioindexkuubisuran.github.iopost.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -1421,7 +1421,7 @@
         }
       ]
     },
-    "httpskuubisuran.github.ioindexkuubisuran.github.iopost.html": {
+    "ioindexkuubisuran.github.iopost.html": {
       "settings": {
         "title": "Post",
         "order": 2
