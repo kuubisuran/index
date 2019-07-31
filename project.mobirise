@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KuubiSuran",
-    "currentPage": "index.html",
+    "currentPage": "kuubisuran.github.iopost.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -38,8 +38,18 @@
     "favicon": "@PROJECT_PATH@/assets/images/18198443-292352234552893-2807415547914775443-n-128x97.png",
     "noImageResize": "",
     "google-analytics": "",
-    "gdpr": "",
-    "сanonical-url": ""
+    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "сanonical-url": "",
+    "cleanCSS": true,
+    "customCookies": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    }
   },
   "pages": {
     "index.html": {
